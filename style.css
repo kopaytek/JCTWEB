@@ -12,6 +12,11 @@ body {
     font-size: 30px;
 }
 
+.infotext {
+    color: #f2f2f2;
+    font-size: 10px;
+}
+
 nav {
     width: auto;
     height: 100px;
